@@ -18,7 +18,7 @@ Here is an index of the synthesizer modules I have developed so far:
 These aren't exactly synth modules, but other interesting/useful stuff:
 
 - [Rail Splitter](https://github.com/TimMJN/Rail-Splitter): A virtual ground circuit for splitting a single-rail power supply into a dual-rail one. Useful for powering synth modules from a single-channel benchtop PSU, mainly to be used for prototyping. Only schematics are available.
-- [Bissell-Bouten Envelope-o-Matic](https://github.com/TimMJN/Bissell-Bouten-Envelope-o-Matic-Kosmo/blob/main/schematic/Bissell-Bouten_Envelope-o-Matic_BOM.html): Kosmo-adaptation for the Envelope-o-Matic envelope follower by Jos Bouten, based on the work of Harry Bissell. Schematics and gerbers for the control panel and front panel are available, requires the main PCB by Jos Bouten to function.
+- [Bissell-Bouten Envelope-o-Matic](https://github.com/TimMJN/Bissell-Bouten-Envelope-o-Matic-Kosmo): Kosmo-adaptation for the Envelope-o-Matic envelope follower by Jos Bouten, based on the work of Harry Bissell. Schematics and gerbers for the control panel and front panel are available, requires the main PCB by Jos Bouten to function.
 
 # License
 All designs here are released under GPL-3.0 licence. Feel free to use and adapt them to your heart's desire. The only ask to refrain from mass-production and commercialisation of the PCB designs presented here, as I rely on PCB sales for funding new module designs. If you use (parts of) my designs in your own modules, please credit me on your schematics and PCBs to help users find the original creator. I call upon your good conscience to make fair use of my work shared here.
