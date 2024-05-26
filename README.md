@@ -7,6 +7,7 @@ My name is Tim, and I'm a DIY electronics enthusiast. I design and build analog 
 # Modules
 Here is an index of the synthesizer modules I have developed so far:
 
+- [Polymorph VCO](https://github.com/TimMJN/Polymorph-VCO): analog VCO with suboscillator and voltage-controlled waveform mixing. Based on a SSI2130 chip. Schematics and PCBs/panels are available.   
 - [Arduino Sequencer](https://github.com/TimMJN/Arduino-Sequencer): extendable sequencer based on the Arduino Nano. Schematics and firmware are available, as well as PCBs/panels in a 8-step 2-voice configuration.
 - [Arduino Clock Divider](https://github.com/TimMJN/Arduino-Clock-Divider): Arduino Nano-based clock divider with 8 adjustable division and rotate function. Schematics, firmware, and PCBs/panels are available.
 - [Euclidean Rhythm Generator](https://github.com/TimMJN/Arduino-Euclidean-Rhythm-Generator): A 16-step 4-voice rhythm sequencer based on the Euclidean algorithm, powered by an Arduino Nano. Schematics, firmware, and PCBs/panels are available.
